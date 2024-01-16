@@ -21,7 +21,6 @@ export default function NavBar() {
                             <div className="offcanvas-body">
                                 <ul className="navbar-nav align-items-center justify-content-center flex-grow-1 pe-3">
                                     <NavBarLinks name="Skills"></NavBarLinks>
-                                    <NavBarLinks name="My Experience"></NavBarLinks>
                                     <NavBarLinks name="My Projects"></NavBarLinks>
                                     <NavBarLinks name="Contact Me"></NavBarLinks>
                                     <Resume></Resume>
